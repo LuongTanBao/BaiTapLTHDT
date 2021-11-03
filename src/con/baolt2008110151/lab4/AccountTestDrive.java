@@ -1,4 +1,4 @@
-package com.baolt2008110151.bankmenu;
+package com.baolt2008110151.lab4;
     import java.util.Scanner;
     public class AccountTestDrive {
         static Scanner sc = new Scanner(System.in);
