@@ -1,4 +1,4 @@
-package com.baolt2008110152.lab4;
+package com.baolt2008110151.lab4;
 import java.util.Scanner;
 
 public class Customer {
