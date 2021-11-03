@@ -1,5 +1,5 @@
 
-package com.baolt2008110151.Lab5;
+package com.baolt2008110151.Lab4;
 import java.text.NumberFormat;
 import java.util.Scanner;
 public class Account {
