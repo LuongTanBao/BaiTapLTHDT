@@ -1,4 +1,4 @@
-package com.namnd2008110152.Lab5;
+package com.baolt2008110151.Lab5;
 public class Cow {
     int age,weight;
     public Cow(double d) {
