@@ -1,0 +1,26 @@
+package com.baolt200811015.kiemtragiuaki.;
+import java.until.scanner;
+
+public class HocVien {
+
+        private String hoTen;
+        private String nganh;
+    
+        public HocVien(String hoTen, String nganh) {
+            this.hoTen = hoTen;
+            this.nganh = nganh;
+        }
+        protected double getdiemmonhoc() {
+            return getdiemmonhoc();
+        }
+        if (DiemMonHoc()<5)
+        System.out.println("điểm Môn Học D");
+    else 
+        if (getDiemHocLUc()>=4 && getDiemHocLUc() <=6.5)
+        System.out.println("Điểm Môn Học C");
+else 
+}
+@Override
+public String toString() {
+    return "Điểm Môn Học: " + this.Điểm Môn Học D + ", Điểm Môn Học:  "+ this.Điểm Môn Học C + ;
+}
